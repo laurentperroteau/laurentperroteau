@@ -1,4 +1,4 @@
-### Nothing recent to see here 😞, I'm working on private repository on GitLab: 
+### Nothing recent to see here 😞, I'm working on private repositories on GitLab: 
 
 > Real contribution! I'm mostly Principal/Lead Front-End Engineer
 
